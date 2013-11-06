@@ -1,0 +1,4 @@
+pirati
+======
+
+Example blog
